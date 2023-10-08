@@ -210,7 +210,7 @@ aside{
 
 
 aside > ul{
-    list-style-type: '🗸';
+    list-style-type: '\1F5F8';
     list-style-position: inside;
     columns: 2;
     margin-left: 15px;
